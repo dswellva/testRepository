@@ -1,0 +1,28 @@
+echo "# testRepository" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/dswellva/week1
+
+git push -u origin master
+
+Can you not add a folder to git?
+
+Once local Repository is connected to remote Repo, use these commands as framework for saving changes at regular intervals
+
+git add
+
+git commit -m "second command"
+
+git push
+
+
+https://learningbitbranching.js.org
+
+https://youtu.be/beDAXE1K6bM
+
+Git Hub error: src refspec master does not match any - youtube 8:40 git and github tutorial
